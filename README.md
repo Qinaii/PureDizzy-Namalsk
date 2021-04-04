@@ -1,5 +1,3 @@
-# PureDizzy-Namalsk Changelogs
-All necessary information and files for our Namalsk Server
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
